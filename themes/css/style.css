@@ -1,0 +1,74 @@
+.widget_epicwin_widget table, form { margin: 0; border: 0; }
+.widget_epicwin_widget table td { padding: 0; }
+.widget_epicwin_widget input { float: left; width: 100px; margin: 0; }
+.widget_epicwin_widget label { float: left; width: 40px; margin: 5px 0 10px; }
+.widget_epicwin_widget button { float: right; width: 108px; margin-top: 5px; }
+.errors { clear: both; padding-top: 10px; }
+.success { background-color: #004A8E; text-align: left; color: #fff; float: left; width: auto; padding: 5px; margin: 4px 0 0 2px; }
+.error { color: #ff0000 !important; margin-bottom: 21px; text-align: center; margin-top: 0px }
+div#unsubscribe { text-align: justify; border: 2px solid #660000; background: #fff; width: 200px; padding: 15px; position: absolute; top: 30%; left: 45%; -moz-border-radius: 10px; -webkit-border-radius: 10px; -moz-box-shadow: 0px 0px 15px #660000; -webkit-box-shadow: 0px 0px 15px #660000; }
+div#unsubscribe p { color: #000000; }
+a.close { border: 1px solid #d40000; background: #660000; color: #fff; padding: 5px; margin-left: 75px; }
+a.close:hover { text-decoration: none; }
+.epicwin-subscription .loading { position: relative; top: 54px; right: 130px; }
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.vc_custom_1539171176086 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1537945259930 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.vc_custom_1538202038533 {
+    padding-bottom: 70px !important;
+    background-color: #f5f7fb !important;
+}
+
+.vc_custom_1541393442242 {
+    padding-top: 75px !important;
+    padding-bottom: 75px !important;
+}
+
+.vc_custom_1538829476199 {
+    background-color: #f5f7fb !important;
+}
+
+.vc_custom_1541393707020 {
+    padding-bottom: 40px !important;
+}
+
+.vc_custom_1538829520863 {
+    padding-bottom: 90px !important;
+    background-color: #f5f7fb !important;
+}
+
+.vc_custom_1539421087678 {
+    padding-top: 45px !important;
+    padding-bottom: 45px !important;
+}
+.pl-10{
+    padding-left: 10px;
+}
+.call-hotline, .call-hotline:hover {
+    z-index: 999;
+    background: #c50c0f;
+    padding: 1px 10px;
+    border-radius: 30px;
+    bottom: 25px;
+    left: 25px;
+    position: fixed;
+    color: white;
+    font-weight:bold;
+    text-decoration:none;
+    font-size:20px;
+}
+.text-white{
+    color :#ffffff;
+}
